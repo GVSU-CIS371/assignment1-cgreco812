@@ -46,3 +46,9 @@ main {
   height: 200px;
   object-fit: contain;
 }
+
+.store-item .details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
